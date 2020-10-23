@@ -12,7 +12,7 @@ OWASP SASTRA University was founded in Oct,2020. We organise Meetups, Webinar an
 Join our mission to make Cyber Space a Better Place!
 
 ## For Event Updates
-Follow us on twitter and instagram to get instant updates on Upcoming events
+```Follow us on twitter and instagram to get instant updates on Upcoming events```
 
 
 ## Participation
