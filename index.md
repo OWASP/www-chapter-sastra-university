@@ -6,6 +6,8 @@ tags: tiruchurappali
 region: Asia
 
 ---
+<img src="assets/images/logo/logo1.jpg"/>
+
 OWASP SASTRA University was founded in Oct,2020. We organise Meetups, Webinar and Conferences. All these event are open, anyone who is interest can participate. We promote on Secure Application Development and share knowleadge on Cyber Security.
 Join our mission to make Cyber Space a Better Place!
 
