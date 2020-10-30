@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Sastra University - Student Chapter
 tags: tiruchurappali
 region: Asia
+meetup-group: owasp-sastra-university-meetup-group/
+postal-code: <postal code>
+
 
 ---
 <img src="assets/images/logo/logo1.jpg"/>
