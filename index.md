@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Sastra University
+title: OWASP Sastra University - Student Chapter
 tags: tiruchurappali
 region: Asia
 
