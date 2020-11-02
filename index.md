@@ -6,7 +6,7 @@ region: Asia
 ---
 ## WELCOME
 
-<img src="assets/images/logo/logo1.jpg"/>
+<img src="assets/images/logo/logo_text.png"/>
 
 OWASP SASTRA University was founded in Oct,2020. We organise Meetups, Webinar and Conferences. All these event are open, anyone who is interest can participate. We promote on Secure Application Development and share knowleadge on Cyber Security.
 Join our mission to make Cyber Space a Better Place!
@@ -22,5 +22,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate in Our Events and Contribute your Support.
 
 ## Local News
-- Inaugration event of OWASP SASTRA University has been successfully completed on 18/11/2020.
-- Guest: Dr. R. Kavitha, Sastra University, Network & Cyber security
+- Session on Fundamentals of application security by Adithyan Ak (OWASP Coimbatore Lead)<br />
+  on 08/11/2020 at 10.00-11.00am.<a href="https://forms.gle/tk9n1kjUHyECbN1D6"> Click Here</a> for registration
+- Inaugration event of OWASP SASTRA University has been successfully completed on 18/11/2020.<br />
+  Guest: Dr. R. Kavitha, Sastra University, Network & Cyber security
