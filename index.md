@@ -21,8 +21,28 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in Our Events and Contribute your Support.
 
+## Speakers
+If you like to speak on our upcoming events, Kindly mail us
+* [Abhisek R](mailto:abhisek.rajkumar@owasp.org)
+* [ Sai Aditya Viswanadham](mailto:saiaditya.viswanadham@owasp.org)
+
+
+**Email Format :**
+
+- Speaker name
+- Job Role
+- Company / Organization
+- Country
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
+
 ## Local News
 - Session on Fundamentals of application security by Adithyan Ak (OWASP Coimbatore Lead)<br />
-  on 08/11/2020 at 10.00-11.00am.<a href="https://forms.gle/tk9n1kjUHyECbN1D6"> Click Here</a> for registration
+  on 08/11/2020 at 10.00-11.00am.
 - Inaugration event of OWASP SASTRA University has been successfully completed on 18/11/2020.<br />
   Guest: Dr. R. Kavitha, Sastra University, Network & Cyber security
