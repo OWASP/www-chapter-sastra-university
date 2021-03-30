@@ -24,8 +24,7 @@ Everyone is welcome and encouraged to participate in Our Events and Contribute y
 ## Speakers
 If you like to speak on our upcoming events, Kindly mail us
 * [Abhisek R](mailto:abhisek.rajkumar@owasp.org)
-* [ Sai Aditya Viswanadham](mailto:saiaditya.viswanadham@owasp.org)
-* [Roopak Suresh](mailto:roopack.suresh@owasp.org)
+* [Roopak Suresh](mailto:roopak.suresh@owasp.org)
 
 
 **Email Format :**
