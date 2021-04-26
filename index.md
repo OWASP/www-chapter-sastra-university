@@ -42,7 +42,7 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 ## Local News
-- Techincal session on "Bug Bounties are more than hacking" by Wesley Thjis on 10/04/2021 <br />
+- Technical session on "Bug Bounties are more than hacking" by Wesley Thijs on 10/04/2021 <br />
 - Interactive session on OSINT and Playing CTF By Roopak Suresh and Abhisek held on 14/02/2021 <br />
 - Session on Fundamentals of application security by Adithyan Ak (OWASP Coimbatore Lead)<br />
   on 08/11/2020 at 10.00-11.00am.
