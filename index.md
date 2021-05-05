@@ -19,6 +19,9 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in Our Events and Contribute your Support.
 
+## For Events and Updates
+``Keep regularly checking our Official OWASP SASTRA University page and OWASP SASTRA Meetup group. We will also update through twitter and instagram.``
+
 ## Speakers
 If you like to speak on our upcoming events, Kindly mail us
 * [Abhisek R](mailto:abhisek.rajkumar@owasp.org)
@@ -40,9 +43,9 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 ## Local News
-- Technical session on "Bug Bounties are more than hacking" by Wesley Thijs on 10/04/2021 <br />
-- Interactive session on OSINT and Playing CTF By Roopak Suresh and Abhisek held on 14/02/2021 <br />
+- Technical session on "Bug Bounties are more than hacking" by Wesley Thijs on 10/04/2021 at 12.30-01.30am<br />
+- Interactive session on OSINT and Playing CTF By Roopak Suresh and Abhisek held on 14/02/2021 at 07.00-09.00pm <br />
 - Session on Fundamentals of application security by Adithyan Ak (OWASP Coimbatore Lead)<br />
   on 08/11/2020 at 10.00-11.00am.
-- Inaugration event of OWASP SASTRA University has been successfully completed on 18/11/2020.<br />
+- Inaugration event of OWASP SASTRA University has been successfully completed on 18/11/2020 at 10.00-11.00am.<br />
   Guest: Dr. R. Kavitha, Sastra University, Network & Cyber security
