@@ -20,7 +20,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate in Our Events and Contribute your Support.
 
 ## For Events and Updates
-``Keep regularly checking our [Official OWASP SASTRA Meetup group](https://www.meetup.com/owasp-sastra-university-meetup-group/).``
+Keep regularly checking our [Official OWASP SASTRA Meetup group](https://www.meetup.com/owasp-sastra-university-meetup-group/)
 
 ## Speakers
 If you like to speak on our upcoming events, Kindly mail us
