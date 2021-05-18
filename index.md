@@ -33,7 +33,7 @@ If you like to speak on our upcoming events, Kindly mail us
 - Speaker name
 - Job Role
 - Company / Organization
-- Country
+- Country.
 - Email ID
 - Contact Number
 - Speaker Profile
@@ -43,6 +43,7 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 ## Local News
+- Introduction session on "Basics and Introduction to Cyber Security" by Abhisek R on 15/5/2021 at 06.30-07.30pm<br />
 - Technical session on "Bug Bounties are more than hacking" by Wesley Thijs on 10/04/2021 at 12.30-01.30am<br />
 - Interactive session on OSINT and Playing CTF By Roopak Suresh and Abhisek held on 14/02/2021 at 07.00-09.00pm <br />
 - Session on Fundamentals of application security by Adithyan Ak (OWASP Coimbatore Lead)<br />
