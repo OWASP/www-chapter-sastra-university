@@ -43,11 +43,11 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 ## Local News
-- OSINT and Real time hacking | SYNC UP SUNDAY CALL #5 by Shyam Prasad on 29/05/2022 at 07:00-07:30pm<br />
-- Cryptography Walkthrough | SUNC UP SUNDAY CALL #4 by Shyam Sunder on 08/05/2022 at 07:00-07:30pm<br />
-- WTH is Networking | SYNC UP SUNDAY CALL #3 by Saai Sudarshan on 01/05/2022 at 07:00-07:30pm<br />
-- Bits and bytes of ethical hacking | Sync up Sunday call #2 by Shyam Sunder on 24/04/2022 at 07:00-07:30pm<br />
-- What is cyber security all about? | Sync up Sunday call #1 by Abhisek R on 10/04/2022 at 08:00-08:30pm<br />
+- OSINT and Real time hacking, SYNC UP SUNDAY CALL #5 by Shyam Prasad on 29/05/2022 at 07:00-07:30pm<br />
+- Cryptography Walkthrough, SUNC UP SUNDAY CALL #4 by Shyam Sunder on 08/05/2022 at 07:00-07:30pm<br />
+- WTH is Networking, SYNC UP SUNDAY CALL #3 by Saai Sudarshan on 01/05/2022 at 07:00-07:30pm<br />
+- Bits and bytes of ethical hacking, Sync up Sunday call #2 by Shyam Sunder on 24/04/2022 at 07:00-07:30pm<br />
+- What is cyber security all about?, Sync up Sunday call #1 by Abhisek R on 10/04/2022 at 08:00-08:30pm<br />
 - Introduction session on "Basics and Introduction to Cyber Security" by Abhisek R on 15/5/2021 at 06.30-07.30pm<br />
 - Technical session on "Bug Bounties are more than hacking" by Wesley Thijs on 10/04/2021 at 12.30-01.30am<br />
 - Interactive session on OSINT and Playing CTF By Roopak Suresh and Abhisek held on 14/02/2021 at 07.00-09.00pm <br />
