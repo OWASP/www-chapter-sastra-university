@@ -43,6 +43,7 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 ## Local News
+- Cyber Security Awareness (Offline Event) at Amrita Vidyalayam, Trichy by Abhisek R on 25/07/2022 at 10:50-11-50am<br />
 - OSINT and Real time hacking, SYNC UP SUNDAY CALL #5 by Shyam Prasad on 29/05/2022 at 07:00-07:30pm<br />
 - Cryptography Walkthrough, SUNC UP SUNDAY CALL #4 by Shyam Sunder on 08/05/2022 at 07:00-07:30pm<br />
 - WTH is Networking, SYNC UP SUNDAY CALL #3 by Saai Sudarshan on 01/05/2022 at 07:00-07:30pm<br />
