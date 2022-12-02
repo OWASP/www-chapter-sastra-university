@@ -9,7 +9,7 @@ region: Asia
 
 ## WELCOME
 
-<img src="assets/images/logo/logo_text.png"/>
+<!-- <img src="assets/images/logo/logo_text.png"/> -->
 
 OWASP SASTRA University was founded in Oct,2020. We organise Meetups, Workshops, Webinar and Conferences. All these event are open, anyone who is interest can participate and learn. We encourage secure application development and the exchange of cyber security knowledge. Our goal is to make Cyberspace a better place!
 
