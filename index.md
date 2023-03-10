@@ -15,7 +15,7 @@ OWASP SASTRA University was founded in Oct,2020. We organise Meetups, Workshops,
 
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. This chapter are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/) and any financial contributions should only be made online using the authorized online donation button.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. This chapter are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/) and any financial contributions should only be made online using the authorized online donation button.
 
 Everyone is welcome and encouraged to participate in our events and contribute their support.
 
@@ -43,6 +43,8 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 ## Local News
+- Web Security 101: A Comphrehensive Walkthrough(Part -2) by Vigneshwaren on 21/01/2023 at 07:00-08:00pm<br />
+- Web Security 101: A Comphrehensive Walkthrough by Kadhiravan on 12/01/2023 at 07:00-08:00pm<br />
 - Freshers Orientation (Offline Event) at SASTRA University by Team OWASP SASTRA on 28/10/2022 at 05:30-07:00pm<br />
 - Cyber Security Awareness (Offline Event) at Amrita Vidyalayam, Trichy by Abhisek R on 25/07/2022 at 10:50-11:50am<br />
 - OSINT and Real time hacking, SYNC UP SUNDAY CALL #5 by Shyam Prasad on 29/05/2022 at 07:00-07:30pm<br />
