@@ -43,6 +43,7 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 ## Local News
+- From Student to Cybersecurity Intern: Insights and Learning curve by Abisheik Magesh on 01/04/2023 at 07:00-08:00pm<br />
 - Web Security 101: A Comphrehensive Walkthrough(Part -2) by Vigneshwaren on 21/01/2023 at 07:00-08:00pm<br />
 - Web Security 101: A Comphrehensive Walkthrough by Kadhiravan on 12/01/2023 at 07:00-08:00pm<br />
 - Freshers Orientation (Offline Event) at SASTRA University by Team OWASP SASTRA on 28/10/2022 at 05:30-07:00pm<br />
