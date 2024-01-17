@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP Sastra University - Student Chapter
 tags: Trichy Thanjavur Sastra University India
 meetup-group: owasp-sastra-university-meetup-group
+country: India
 region: Asia 
 
 ---
