@@ -1,0 +1,31 @@
+leaders:
+  - name: Abhisek Rajkumar
+    email: abhisek.rajkumar@owasp.org
+    github: abhisek-r-owasp
+  - name: Roopak Suresh
+    email: roopak.suresh@owasp.org
+    github: hackkery
+  - name: Shyam Sunder Saravanan
+    email: shyam.sundersaravanan@owasp.org
+  - name: Dr. V.S. Shankar Sriram
+    email: vs_shankar.sriram@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Thanjavur
+  latitude: 10.65903695
+  longitude: 79.20142776213416
+meetup_group: owasp-sastra-university-meetup-group
+name: OWASP Sastra University - Student Chapter
+repositories:
+  - name: www-chapter-sastra-university
+    url: https://github.com/OWASP/www-chapter-sastra-university
+    description: OWASP Foundation Web Repository
+tags:
+  - Trichy
+  - Thanjavur
+  - Sastra
+  - University
+  - India
+website: https://owasp.org/www-chapter-sastra-university
